@@ -1,0 +1,10 @@
+[
+  {"name": "disk 90%", "level": "critical"},
+  {"name": "user login", "level": "info"},
+  {"name": "cpu 40%", "level": "info"},
+  {"name": "payment failed", "level": "critical"},
+  {"name": "heartbeat", "level": "info"},
+  {"name": "db timeout", "level": "critical"},
+  {"name": "cache miss", "level": "warn"},
+  {"name": "deploy ok", "level": "info"}
+]
